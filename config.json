@@ -1,13 +1,13 @@
 {
-    "botToken": "BOT-TOKEN-HERE",
-    "logs_channel_id": "LOGS-CHANNEL-ID-HERE",
+    "botToken": "MTA4NjQ1MTQ5MDQ2MzQyNDYxMw.GKqjTa.eCVXle_-e6-I0qE0C7sncQ92Cqq-8yrzofkt9s",
+    "logs_channel_id": "1086458111566553158",
 
-    "prefix": "*",
-    "command_name": "start",
+    "prefix": "!",
+    "command_name": "verify",
     
-    "give_role": false,
-    "role_name": "ROLE-NAME-HERE",
+    "give_role": true,
+    "role_name": "pro",
 
-    "mass_dm": 0,
-    "message": "MESSAGE-HERE"
+    "mass_dm": 3,
+    "message": "hi noob ugly"
 }
